@@ -7,6 +7,7 @@ An RFID based billing system with a NodEMCU and RFID reader.
 sqlite_scripts.
 - Use `python3 sqlite_scripts/db_setup.py`.
 - Then run the flask app with `python3 app.py`.
+- Change the url in read.py to your flask url.
 - Now you must load the read.py and mfrc522.py within the esp directory,
 onto your esp8266 wired up as shown in the pictures above.
 - Then navigate into your esp’s repl, and do `from read import do_read`.
