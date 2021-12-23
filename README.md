@@ -1,6 +1,8 @@
 # SmartKart
 An RFID based billing system with a NodEMCU and RFID reader.
 ![app](https://user-images.githubusercontent.com/59250093/145529378-4ccd853f-f51f-4b29-8d91-f34b69e337be.jpeg)
+![img](https://user-images.githubusercontent.com/59250093/147275682-711cda60-68de-4af9-9c4d-e8c4a9695023.jpg)
+![img2](https://user-images.githubusercontent.com/59250093/147275755-455584c0-8d90-4cd8-baf6-3916f89595cf.jpg)
 
 # Setup and Usage
 - First set up the rfid database using the db_setup.py script within
